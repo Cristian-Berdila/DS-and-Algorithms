@@ -2,11 +2,15 @@
 
 First steps TO-DO:
 --------------------------------------------------------------------------
-Firstly, fulll overview & recap from
+Step1 :  fulll overview & recap from
 https://www.geeksforgeeks.org/java    
 
-Build curriculum based on Cracking the Code Interview 6th Edition after having developed
-JSP web-app (to-do list like)
+
+Step 2: Build home page of JSP, to-do list like web-app with links to each person's development path
+
+
+Step 3: Establish grosso-modo curriculum based on Cracking the Code Interview 6th Edition after step 2.
+
 
 --------------------------------------------------------------------------
 Interview questions (for later):
