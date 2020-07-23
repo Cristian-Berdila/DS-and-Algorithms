@@ -1,6 +1,6 @@
 # Learning path and development tracker
 
-TO-DO List:
+First steps TO-DO:
 --------------------------------------------------------------------------
 Firstly, fulll overview & recap from
 https://www.geeksforgeeks.org/java    
