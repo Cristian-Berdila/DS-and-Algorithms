@@ -1,4 +1,4 @@
-# DS-and-Algorithms
+# Learning path and development tracker
 
 TO-DO List:
 --------------------------------------------------------------------------
