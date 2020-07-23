@@ -1,6 +1,17 @@
 # DS-and-Algorithms
 
-Resources:
+TO-DO List:
+--------------------------------------------------------------------------
+Firstly, fulll overview & recap from
+https://www.geeksforgeeks.org/java    
 
-1.https://leetcode.com/explore/
-2.https://www.geeksforgeeks.org/
+Build curriculum based on Cracking the Code Interview 6th Edition after having developed
+JSP web-app (to-do list like)
+
+--------------------------------------------------------------------------
+Interview questions (for later):
+https://www.edureka.co/blog/interview-questions/java-interview-questions/
+
+
+Additional resources:
+https://github.com/jwasham/coding-interview-university
